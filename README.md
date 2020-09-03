@@ -1,3 +1,6 @@
+Frontend for CSC 424 senior group project.
+Developed in React, HTML, CSS, and Recharts.  
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
